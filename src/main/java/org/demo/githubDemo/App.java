@@ -10,6 +10,5 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "This is a demo project for GitHub." );
-        System.out.println( "Enjoy coding!" );
     }
 }
